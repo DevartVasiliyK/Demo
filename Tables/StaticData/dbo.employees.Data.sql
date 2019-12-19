@@ -1,0 +1,5 @@
+﻿INSERT dbo.employees(id, Name, City, MobileNo, Salary) VALUES (1, 'Vitaliy', 'Kharkiv', '8974256789', 2000)
+INSERT dbo.employees(id, Name, City, MobileNo, Salary) VALUES (2, 'Vladimir', 'Kiev', '1234567890', 3000)
+INSERT dbo.employees(id, Name, City, MobileNo, Salary) VALUES (3, 'Valentin', 'Odessa', '3216549874', 4000)
+INSERT dbo.employees(id, Name, City, MobileNo, Salary) VALUES (4, 'Olia', 'Ternopol', '6589745231', 5000)
+INSERT dbo.employees(id, Name, City, MobileNo, Salary) VALUES (5, 'Katia', 'Lviv', '9876543210', 6000)

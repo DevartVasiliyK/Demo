@@ -1,0 +1,3 @@
+﻿CREATE USER [su]
+  FOR LOGIN [su]
+GO
